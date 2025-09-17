@@ -19,8 +19,14 @@ website:
         text: Teaching
       - href: contact.qmd
         text: Contact
-      - text: CV
-        href: files/cv.pdf
+      - href: files/cv.pdf
+        text: CV
+      - href: https://bsky.app/profile/zoejean88.bsky.social
+        icon: bluesky
+        target: _blank # opens link in a new browser tab
+      - href: https://github.com/zoekitchel
+        icon: github
+        target: _blank # opens link in a new browser tab
 
 format:
   html:
