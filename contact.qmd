@@ -1,0 +1,31 @@
+---
+title: "Contact"
+format:
+  html:
+    theme: litera
+    toc: false
+    page-layout: full
+---
+
+<style>
+/* Center images in a row */
+.image-row {
+  display: flex;
+  justify-content: left;
+  gap: 2rem; /* spacing between images */
+  margin-bottom: 2rem;
+}
+.image-row img {
+  border-radius: 8px;
+  max-width: 500px; /* adjust as needed */
+  height: auto;
+}
+
+</style>
+
+<div class="image-row">
+  ![](images/barnacle_wide.jpg){ alt="barnacles"}
+  </div>
+
+zoe dot j dot kitchel at gmail
+

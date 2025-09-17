@@ -1,0 +1,24 @@
+---
+title: ""
+format:
+  html:
+    theme: litera
+    toc: false
+    title-block-style: none
+page-layout: full
+---
+
+![](images/avatar.jpg){width=200px style="border-radius: 50%; display: block; margin-left: auto; margin-right: auto;"}
+
+<div style="text-align: center;">
+
+### Postdoctoral Researcher  
+#### Marine Ecology & Community Resilience
+
+</div>
+
+---
+
+I am a global change ecologist currently applying quantitative tools to better understand the impacts of climate change and human action on marine ecosystems.
+
+I am currently working with the Northwest Fisheries Science Center, and based in Los Angeles, California.

@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+
+website:
+  title: "Zoë J. Kitchel, PhD"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: contact.qmd
+        text: Contact
+      - text: CV
+        href: files/cv.pdf
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: true
+
+editor: visual
+
