@@ -13,12 +13,12 @@ page-layout: full
 <div style="text-align: center;">
 
 ### Postdoctoral Researcher  
-#### Marine Ecology & Community Resilience
+#### Quantitative Ecology & Community Resilience
 
 </div>
 
 ---
 
-I am a global change ecologist currently applying quantitative tools to better understand the impacts of climate change and human action on marine ecosystems.
+I am a global change ecologist currently applying quantitative tools to better understand the impacts of climate change and human action on marine and terrestrial ecosystems.
 
-I am currently working with the Northwest Fisheries Science Center, and based in Los Angeles, California.
+I am currently working with the Northwest Fisheries Science Center and Occidental College and based in Los Angeles, California.
