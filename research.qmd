@@ -40,7 +40,7 @@ h2 {
 
 I am a quantitative ecologist interested in the intersections among ecosystem dynamics, climate change, management, and adaptation strategies within communities. Throughout my work, I am committed to collaborative and transparent approaches to research--especially in the context of data science accessibility and literacy.
 
----
+------------------------------------------------------------------------
 
 ::: {style="text-align: center;"}
 ## Extreme events and socio-ecological shocks
@@ -52,7 +52,7 @@ I am a quantitative ecologist interested in the intersections among ecosystem dy
 
 Extreme events are reshaping ecosystems and human communities at local to global scales, including heatwaves, hurricanes, and wildfires. In marine systems, heatwaves can alter species composition and community dynamics. On land, increasing frequency and intensity of wildfires along coasts and within watersheds---such as the 2025 Palisades Fire in Los Angeles County---threatens both terrestrial and adjacent marine habitats, including salt marshes, seagrass beds, and rocky reefs. In coastal regions, intense flooding events can exacerbate the gradual impacts of rising sea levels. Using long-term ecological datasets and global databases of socio-ecological shocks, I investigate how these events propagate across ecological and social systems, and how the timing and magnitude of disturbances influence ecosystem resilience. As a [Young Scholar with the Beijer Institute of Economics](https://beijer.kva.se/current-beijer-young-scholars/){target="_blank"} I am working with an international team to [grow a database on socio-ecological shocks](https://finbio.org/the-shock-tracker/){target="_blank"}, and develop innovative ways to model and understand how shocks interact with their context, and move between the local and global scales.
 
----
+------------------------------------------------------------------------
 
 ::: {style="text-align: center;"}
 ## Coastal communities and environmental change
@@ -64,7 +64,7 @@ Extreme events are reshaping ecosystems and human communities at local to global
 
 People living in coastal areas face unprecedented transformations of their homes, neighborhoods, and livelihoods due to changing resource distributions, sea-level rise, and increasing storm intensity. In New York City, rising sea levels threaten transportation infrastructure and the viability of neighborhoods, especially in South Brooklyn and Queens. In southern California, increasing intensity and regularity of winter storms is leading to rapid erosion of dunes and beaches. In response to changing resource distributions and availability, fishermen are having to make difficult decisions of whether or not to stay in the fishing industry, and if so, how to shake-up what they are catching or where they are fishing. I am currently working to assess how fishermen vary catch portfolios and fishing grounds to match resource availability, and how management structures can be improved to allow for flexibility.
 
----
+------------------------------------------------------------------------
 
 ::: {style="text-align: center;"}
 ## The role of artificial structures in rocky reef community structure
@@ -76,7 +76,7 @@ People living in coastal areas face unprecedented transformations of their homes
 
 The estimated footprint of human-made structures in the ocean is 32,000 km-squared and that number is expected to rapidly increase over the next decade as nations rely more on marine resources such as aquaculture and energy (Bugnot et al. 2021 Nature Sustainability). Many organisms in the ocean rely on structures for settlement, food, and shelter. Subsequently, a range of human-made structures from trashed lightpoles off the coast of Santa Monica, CA to oil and gas rigs in the Gulf of Mexico support communities of flora and fauna. When designed intentionally, these structures can support healthy and productive ecosystems that can boost biomass of important fisheries species, absorb carbon from the ocean, and protect shorelines from storms and coastal erosion. I am currently working to better understand the role that artificial structures made of diverse materials across environmental conditions play in the broader Southern California Bight ecosystem.
 
----
+------------------------------------------------------------------------
 
 ::: {style="text-align: center;"}
 ## Range shifts in the Anthropocene
