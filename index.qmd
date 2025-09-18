@@ -5,20 +5,33 @@ format:
     theme: litera
     toc: false
     title-block-style: none
-page-layout: full
+    page-layout: full
 ---
 
-![](images/avatar.jpg){width=200px style="border-radius: 50%; display: block; margin-left: auto; margin-right: auto;"}
+<style>
+/* Center the image container */
+.profile-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  border-radius: 50%;
+  transition: 0.3s ease;
+}
 
-<div style="text-align: center;">
+/* Swap image on hover */
+.profile-image:hover {
+  content: url('images/avatar_hover.jpg');
+}
+</style>
 
-### Postdoctoral Researcher  
+<img src="images/avatar.jpg" alt="Profile Photo" class="profile-image">
+
+::: {style="text-align: center;"}
+### Postdoctoral Researcher
 #### Quantitative Ecology & Community Resilience
+:::
 
-</div>
+------------------------------------------------------------------------
 
----
-
-I am a global change ecologist currently applying quantitative tools to better understand the impacts of climate change and human action on marine and terrestrial ecosystems.
-
-I am currently working with the Northwest Fisheries Science Center and Occidental College and based in Los Angeles, California.
+I am a global change ecologist currently applying quantitative tools to better understand the impacts of climate change and human action on marine and terrestrial ecosystems. I am currently working with the Northwest Fisheries Science Center and Occidental College and based in Los Angeles, California.

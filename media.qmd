@@ -1,6 +1,6 @@
 ---
 title: "Media"
-format: 
+format:
   html:
     theme: litera
     toc: false
@@ -12,23 +12,58 @@ format:
 /* Container for each media entry */
 .media-entry {
   display: flex;
-  align-items: center;
-  gap: 1.5rem; /* space between logo and text */
+  align-items: flex-start; /* align text to top of image */
+  gap: 1.5rem; /* space between logo/image and text */
   margin-bottom: 3rem; /* space between entries */
 }
 
-/* Style for logos */
+/* Style for all images to be same width and clickable */
 .media-entry img {
-  max-height: 70px; /* adjust logo size */
-  width: auto;
+  width: 120px; /* fixed width for alignment */
+  height: auto;
   border-radius: 8px; /* optional rounded corners */
+  cursor: pointer; /* indicates clickable image */
+  transition: transform 0.2s;
 }
 
-/* Optional: style text */
+.media-entry img:hover {
+  transform: scale(1.05); /* subtle hover effect */
+}
+
+/* Style text */
 .media-entry p {
   margin: 0;
   font-size: 1rem;
 }
 </style>
-<div class="media-entry"> <img src="images/KPFASince1949Logo.png" alt="KPFA logo"> <p> <strong>July 11, 2025:</strong> Zoë on Tierra Verde (94.1 KPFA Bay Area) discussing wildspread impacts of coastal wildfires. <a href="https://kpfa.org/episode/terra-verde-july-11-2025/" target="_blank">Listen</a> </p> </div> <div class="media-entry"> <img src="images/airtalk_logo.png" alt="airtalk logo"> <p> <strong>February 4, 2025:</strong> Zoë on the LAIST-AirTalk discussing impacts of Malibu fires on rocky reef ecosystems in southern California. <a href="https://laist.com/shows/airtalk/checking-in-on-californias-weather-and-water-outlook" target="_blank">Listen</a> </p> </div> 
+
+<div class="media-entry">
+  <a href="https://kpfa.org/episode/terra-verde-july-11-2025/" target="_blank">
+    <img src="images/KPFASince1949Logo.png" alt="KPFA logo">
+  </a>
+  <p>
+    <strong>July 11, 2025:</strong> Zoë on Tierra Verde (94.1 KPFA Bay Area) discussing widespread impacts of coastal wildfires. 
+    <a href="https://kpfa.org/episode/terra-verde-july-11-2025/" target="_blank">Listen</a>
+  </p>
+</div>
+
+<div class="media-entry">
+  <a href="https://laist.com/shows/airtalk/checking-in-on-californias-weather-and-water-outlook" target="_blank">
+    <img src="images/airtalk_logo.png" alt="airtalk logo">
+  </a>
+  <p>
+    <strong>February 4, 2025:</strong> Zoë on the LAIST-AirTalk discussing impacts of Malibu fires on rocky reef ecosystems in southern California. 
+    <a href="https://laist.com/shows/airtalk/checking-in-on-californias-weather-and-water-outlook" target="_blank">Listen</a>
+  </p>
+</div>
+
+<div class="media-entry">
+  <a href="images/callie_chappell_illustration_homogenization.jpeg" target="_blank">
+    <img src="images/callie_chappell_illustration_homogenization.jpeg" alt="homogenization illustration">
+  </a>
+  <p>
+    <strong>January 2023:</strong> Incredible scientist and artist <a href="https://www.calliechappell.com/" target="_blank">Dr. Callie Chappell</a> did a live illustration representing Zoë's work investigating biotic homogenization in marine fish communities at the American Society of Naturalists Conference. 
+    <a href="https://doi.org/10.1371/journal.pclm.0000659" target="_blank">See here for the resultant publication.</a>
+  </p>
+</div>
 ```
