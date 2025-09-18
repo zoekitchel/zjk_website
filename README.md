@@ -1,2 +1,2 @@
 # zjk_website
-my personal website
+Code for rendering my personal website, zoekitchel.com.
