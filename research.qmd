@@ -22,7 +22,7 @@ format:
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 400px;  /* fixed width */
+  width: 600px;  /* fixed width */
   height: auto;
   border-radius: 8px;
 }

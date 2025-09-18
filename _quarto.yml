@@ -30,8 +30,14 @@ website:
 format:
   html:
     theme: litera
+    toc: false
+    title-block-style: none
+    page-layout: full
     css: styles.css
-    toc: true
+    include-in-header:
+      text: |
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+
 
 editor: visual
 

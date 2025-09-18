@@ -7,6 +7,7 @@ format:
     page-layout: full
 ---
 
+```{=html}
 <style>
 /* Center images in a row */
 .image-row {
@@ -22,10 +23,9 @@ format:
 }
 
 </style>
-
-<div class="image-row">
-  ![](images/barnacle_wide.jpg){ alt="barnacles"}
-  </div>
+```
+::: image-row
+![](images/barnacle_wide.jpg){alt="barnacles"}
+:::
 
 zoe dot j dot kitchel at gmail
-

@@ -9,23 +9,52 @@ format:
 ---
 
 <style>
-/* Center the image container */
-.profile-image {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 300px;
-  border-radius: 50%;
-  transition: 0.3s ease;
+/* Container to hold both images in the same place */
+.avatar-container {
+  position: relative;
+  width: 280px;   /* same width as your avatar */
+  height: 350px;  /* same height as your avatar (vertical oval) */
+  margin: 0 auto; /* center horizontally */
+  border-radius: 50%; /* vertical oval clipping */
+  overflow: hidden;
 }
 
-/* Swap image on hover */
-.profile-image:hover {
-  content: url('images/avatar_hover.jpg');
+/* Base image */
+.avatar-container img.base-avatar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* maintain aspect ratio and fill container */
+  transition: opacity 0.3s ease;
+}
+
+/* Hover image */
+.avatar-container img.hover-avatar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0; /* hidden by default */
+  transition: opacity 0.3s ease;
+}
+
+/* Show hover image on hover */
+.avatar-container:hover img.hover-avatar {
+  opacity: 1;
+}
+.avatar-container:hover img.base-avatar {
+  opacity: 0;
 }
 </style>
 
-<img src="images/avatar.jpg" alt="Profile Photo" class="profile-image">
+<div class="avatar-container">
+  <img src="images/avatar.jpg" alt="Profile Photo" class="base-avatar">
+  <img src="images/avatar_hover.jpg" alt="Profile Photo Hover" class="hover-avatar">
+</div>
 
 ::: {style="text-align: center;"}
 ### Postdoctoral Researcher

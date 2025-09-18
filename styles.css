@@ -1,1 +1,20 @@
-/* css styles */
+/* Header / site name font */
+.site-name, h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;  /* less bold than default */
+  line-height: 1.2;  /* optional tighter spacing */
+}
+
+/* Adjust header sizes slightly smaller than default */
+h1 { font-size: 1.75rem; }    /* default is usually ~2.5rem */
+h2 { font-size: 1.5rem; }
+h3 { font-size: 1.25rem; }
+h4 { font-size: 1.25rem; }
+h5 { font-size: 1.1rem; }
+h6 { font-size: 1rem; }
+
+/* Body text font */
+body, p, li, a, blockquote {
+  font-family: 'Inter', sans-serif;
+  font-weight: 300; /* light body text */
+}
