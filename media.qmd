@@ -30,5 +30,5 @@ format:
   font-size: 1rem;
 }
 </style>
-<div class="media-entry"> <img src="images/KPFASince1949Logo.png" alt="KPFA logo"> <p> <strong>July 11, 2025:</strong> Zoë on Tierra Verde (94.1 KPFA Bay Area) discussing wildspread impacts of coastal wildfires. <a href="https://kpfa.org/episode/terra-verde-july-11-2025/">Listen</a> </p> </div> <div class="media-entry"> <img src="images/airtalk_logo.png" alt="airtalk logo"> <p> <strong>February 4, 2025:</strong> Zoë on the LAIST-AirTalk discussing impacts of Malibu fires on rocky reef ecosystems in southern California. <a href="https://laist.com/shows/airtalk/checking-in-on-californias-weather-and-water-outlook">Listen</a> </p> </div> 
+<div class="media-entry"> <img src="images/KPFASince1949Logo.png" alt="KPFA logo"> <p> <strong>July 11, 2025:</strong> Zoë on Tierra Verde (94.1 KPFA Bay Area) discussing wildspread impacts of coastal wildfires. <a href="https://kpfa.org/episode/terra-verde-july-11-2025/" target="_blank">Listen</a> </p> </div> <div class="media-entry"> <img src="images/airtalk_logo.png" alt="airtalk logo"> <p> <strong>February 4, 2025:</strong> Zoë on the LAIST-AirTalk discussing impacts of Malibu fires on rocky reef ecosystems in southern California. <a href="https://laist.com/shows/airtalk/checking-in-on-californias-weather-and-water-outlook" target="_blank">Listen</a> </p> </div> 
 ```
