@@ -5,8 +5,9 @@ project:
 
 website:
   title: "Zoë J. Kitchel, PhD"
+  favicon: "images/favicon.ico"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - href: research.qmd
@@ -22,11 +23,9 @@ website:
       - href: files/cv.pdf
         text: CV
       - href: https://bsky.app/profile/zoejean88.bsky.social
-        icon: bluesky
-        target: _blank # opens link in a new browser tab
+        icon: twitter
       - href: https://github.com/zoekitchel
         icon: github
-        target: _blank # opens link in a new browser tab
 
 format:
   html:
