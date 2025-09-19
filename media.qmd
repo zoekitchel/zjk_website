@@ -43,7 +43,17 @@ format:
   </a>
   <p>
     <strong>July 11, 2025:</strong> Zoë on Tierra Verde (94.1 KPFA Bay Area) discussing widespread impacts of coastal wildfires. 
-    <a href="https://kpfa.org/episode/terra-verde-july-11-2025/" target="_blank">Listen</a>
+    <a href="https://kpfa.org/episode/terra-verde-july-11-2025/" target="_blank">Listen here.</a>
+  </p>
+</div>
+
+<div class="media-entry">
+  <a href="https://www.youtube.com/watch?v=nkhOKK6E7sk" target="_blank">
+    <img src="images/malibu_divers.jpg" alt="malibu divers logo">
+  </a>
+  <p>
+    <strong>February 5, 2025:</strong> Zoë talks to Malibu Divers about her work with the Vantuna Research Group at Occidental College and the impacts of the Palisades Fires on Malibu's rocky reefs.
+    <a href="https://www.youtube.com/watch?v=nkhOKK6E7sk" target="_blank">Watch here.</a>
   </p>
 </div>
 
@@ -53,7 +63,7 @@ format:
   </a>
   <p>
     <strong>February 4, 2025:</strong> Zoë on the LAIST-AirTalk discussing impacts of Malibu fires on rocky reef ecosystems in southern California. 
-    <a href="https://laist.com/shows/airtalk/checking-in-on-californias-weather-and-water-outlook" target="_blank">Listen</a>
+    <a href="https://laist.com/shows/airtalk/checking-in-on-californias-weather-and-water-outlook" target="_blank">Listen here.</a>
   </p>
 </div>
 
@@ -62,8 +72,17 @@ format:
     <img src="images/callie_chappell_illustration_homogenization.jpeg" alt="homogenization illustration">
   </a>
   <p>
-    <strong>January 2023:</strong> Incredible scientist and artist <a href="https://www.calliechappell.com/" target="_blank">Dr. Callie Chappell</a> did a live illustration representing Zoë's work investigating biotic homogenization in marine fish communities at the American Society of Naturalists Conference. 
+    <strong>January 2023:</strong> The incredible scientist and artist <a href="https://www.calliechappell.com/" target="_blank">Dr. Callie Chappell</a> did a live illustration representing Zoë's work investigating biotic homogenization in marine fish communities at the American Society of Naturalists Conference. 
     <a href="https://doi.org/10.1371/journal.pclm.0000659" target="_blank">See here for the resultant publication.</a>
+  </p>
+</div>
+
+<div class="media-entry">
+  <a href="https://envidynxlab.org/portfolio/geographies-of-risk-podcast/" target="_blank">
+    <img src="images/geo_of_risk_cover01-1.jpg" alt="geographies of risk logo">
+  </a>
+  <p>
+    <strong>November 2020:</strong> Zoë talks with Professor Eli Lazarus at the University of Southampton about the mechanisms and consequences of species on the move in the ocean on the <a href="https://envidynxlab.org/portfolio/geographies-of-risk-podcast/#episode16" target="_blank">Geographies of Risk Podcast.</a> She also gave a seminar associated with the podcast which you can <a href="https://youtu.be/tyuebril8y8?si=zBXH44h4cUn3T7nL" target="_blank">watch here.</a>
   </p>
 </div>
 ```
