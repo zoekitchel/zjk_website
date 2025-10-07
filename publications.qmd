@@ -57,7 +57,7 @@ format:
 
 <li>[🕒]{.inprogress-icon}Schaffzin, M.[♦]{.mentee-icon}, <strong>Kitchel, Z. J.</strong>, & Pondella II, D. J. <em>Factors Influencing Gorgonian Distribution and Density at Artificial and Natural Reef Ecosystems in Los Angeles.</em></li>
 
-<li>[🕒]{.inprogress-icon}<strong>Kitchel, Z. J.</strong>, et al. <em>Contrasting adaptive capacity across U.S. groundfish fleets: The roles of regional constraints and vessel size.</em></li>
+<li>[🕒]{.inprogress-icon}<strong>Kitchel, Z. J.</strong>, et al. <em>Parallel diversification strategies in U.S. groundfish trawl fisheries despite distinct target species and regional contexts.</em></li>
 
 </ul>
 
@@ -65,7 +65,7 @@ format:
 
 <ul>
 
-<li>[📄]{.inpress-icon}<strong>Kitchel, Z. J.</strong>, Claisse, J. T., Pondella II, D. J., Williams, C. M., Williams, J. P., & Shroeder, D. <em>Community structure of southern California's subtidal rocky reefs and implications for artificial reef design.</em> In press at <em>Marine Ecology Progress Series</em>. Expected publication November 2025.</li>
+<li>[📄]{.inpress-icon}<strong>Kitchel, Z. J.</strong>, Claisse, J. T., Pondella II, D. J., Williams, C. M., Williams, J. P., & Shroeder, D. <em>Community structure of southern California's subtidal rocky reefs and implications for artificial reef design.</em> In press at <em>Marine Ecology Progress Series</em>. <a href="https://www.int-res.com/abstracts/meps/prepress/meps14991" target="_blank">Link</a></li>
 
 </ul>
 
