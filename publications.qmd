@@ -42,7 +42,8 @@ format:
 }
 </style>
 ```
-::: {#publications}
+
+:::: {#publications}
 <!-- Mentee note at top -->
 
 ::: {style="margin-bottom:1em;"}
@@ -65,13 +66,15 @@ format:
 
 <ul>
 
-<li>[📄]{.inpress-icon}<strong>Kitchel, Z. J.</strong>, Claisse, J. T., Pondella II, D. J., Williams, C. M., Williams, J. P., & Shroeder, D. <em>Community structure of southern California's subtidal rocky reefs and implications for artificial reef design.</em> In press at <em>Marine Ecology Progress Series</em>. <a href="https://www.int-res.com/abstracts/meps/prepress/meps14991" target="_blank">Link</a></li>
+<li>[📄]{.inpress-icon}Nothing currently in press!</li>
 
 </ul>
 
 ### Published
 
-<ol start="9" reversed>
+<ol start="10" reversed>
+
+<li><strong>Kitchel, Z. J.</strong>, Claisse, J. T., Pondella II, D. J., Williams, C. M., Williams, J. P., & Shroeder, D. (2025). <em>Community structure of southern California's subtidal rocky reefs and implications for artificial reef design.</em> <em>Marine Ecology Progress Series</em>, 774:91-108. <a href="https://doi.org/10.3354/meps14991" target="_blank">Link</a></li>
 
 <li><strong>Kitchel, Z. J.</strong>, Maureaud, A. A., Fredston, A., Shackell, N., Mérigot, B., Thorson, J. T., Pécuchet, L., et al. (2025). <em>Marine communities do not follow the paradigm of increasing similarity through time.</em> <em>PLOS Climate</em>, 4(7), e0000659. <a href="https://doi.org/10.1371/journal.pclm.0000659" target="_blank">Link</a></li>
 
@@ -101,9 +104,9 @@ format:
 
 <li>Free, C. M., <strong>Kitchel, Z. J.</strong>, Seeley, M., & Shields, A. (2024). <em>Quota allocation policies in US federal fisheries management and implications for climate resilience.</em> Environmental Defense Fund, New York, New York.</li>
 
-<li><strong>Kitchel, Z. J.</strong>, Bandara, R. M. W. J., Bos, J. T., Clark, R. D., Forrest, D. L., & Pinsky, M. L. (2019). <em>Ocean Recovery: A Sustainable Future for Global Fisheries?</em> In: Ray Hilborn & Ulrike Hilborn (Eds.), Oxford University Press, Oxford, UK. <a href="https://global.oup.com/academic/product/ocean-recovery-9780198839767" target="_blank">Link</a></li>
-
 <li><strong>Kitchel, Z. J.</strong>, & Zemeckis, D. R. (2021). <em>Climate Change Impacts on New Jersey's Marine Fisheries.</em> Rutgers Cooperative Extension Bulletin E369. <a href="https://njaes.rutgers.edu/e369/" target="_blank">Link</a></li>
 
+<li><strong>Kitchel, Z. J.</strong>, Bandara, R. M. W. J., Bos, J. T., Clark, R. D., Forrest, D. L., & Pinsky, M. L. (2019). <em>Ocean Recovery: A Sustainable Future for Global Fisheries?</em> In: Ray Hilborn & Ulrike Hilborn (Eds.), Oxford University Press, Oxford, UK. <a href="https://global.oup.com/academic/product/ocean-recovery-9780198839767" target="_blank">Link</a></li>
+
 </ul>
-:::
+::::
