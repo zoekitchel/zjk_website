@@ -7,3 +7,5 @@
 docs/.DS_Store
 files/.DS_Store
 images/.DS_Store
+.positai
+*.DS_Store

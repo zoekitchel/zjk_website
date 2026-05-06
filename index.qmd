@@ -8,6 +8,7 @@ format:
     page-layout: full
 ---
 
+```{=html}
 <style>
 /* Container to hold both images in the same place */
 .avatar-container {
@@ -50,17 +51,18 @@ format:
   opacity: 0;
 }
 </style>
+```
 
-<div class="avatar-container">
-  <img src="images/avatar.jpg" alt="Profile Photo" class="base-avatar">
-  <img src="images/avatar_hover.jpg" alt="Profile Photo Hover" class="hover-avatar">
-</div>
+::: avatar-container
+<img src="images/avatar.jpg" alt="Profile Photo" class="base-avatar"/> <img src="images/avatar_hover.jpg" alt="Profile Photo Hover" class="hover-avatar"/>
+:::
 
 ::: {style="text-align: center;"}
 ### Postdoctoral Researcher
+
 #### Quantitative Ecology & Community Resilience
 :::
 
 ------------------------------------------------------------------------
 
-I am a global change ecologist currently applying quantitative tools to better understand the impacts of climate change and human action on marine and terrestrial ecosystems. I am currently working with the Northwest Fisheries Science Center and Occidental College and based in Los Angeles, California.
+I am a global change ecologist currently applying quantitative tools to better understand the impacts of climate change on marine ecosystems and human communities. I am currently a postdoctoral researcher working with the Northwest Fisheries Science Center (Seattle, WA) and based in Santa Barbara, California at the Channel Islands National Marine Sanctuary office.
