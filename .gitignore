@@ -9,5 +9,6 @@ files/.DS_Store
 images/.DS_Store
 .positai
 *.DS_Store
+**.DS_Store
 
 **/*.quarto_ipynb
