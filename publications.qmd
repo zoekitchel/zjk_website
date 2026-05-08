@@ -108,5 +108,8 @@ format:
 
 <li><strong>Kitchel, Z. J.</strong>, Bandara, R. M. W. J., Bos, J. T., Clark, R. D., Forrest, D. L., & Pinsky, M. L. (2019). <em>Ocean Recovery: A Sustainable Future for Global Fisheries?</em> In: Ray Hilborn & Ulrike Hilborn (Eds.), Oxford University Press, Oxford, UK. <a href="https://global.oup.com/academic/product/ocean-recovery-9780198839767" target="_blank">Link</a></li>
 
+<li><strong>Kitchel, Z. J.</strong> (2019). <em>Equity and Interdisciplinarity in International Ocean Governance</em> In: The Nippon Foundation: Nereus Program Blog. <a href="https://nereusprogram.org/works/equity-and-interdisciplinarity-in-international-ocean-governance/">Link</a></li>
+
+
 </ul>
 ::::
