@@ -34,6 +34,7 @@ h2 {
 
 </style>
 ```
+
 ::: image-row
 ![](images/zoe_dissect_fish.jpg){alt="zoe dissects sea bass"}
 :::
@@ -50,7 +51,7 @@ I am a quantitative ecologist interested in the intersections among ecosystem dy
 ![](images/sea_level.JPG){alt="sea level at bridge in harbor"}
 :::
 
-Extreme events are reshaping ecosystems and human communities at local to global scales, including heatwaves, hurricanes, and wildfires. In marine systems, heatwaves can alter species composition and community dynamics. On land, increasing frequency and intensity of wildfires along coasts and within watersheds---such as the 2025 Palisades Fire in Los Angeles County---threatens both terrestrial and adjacent marine habitats, including salt marshes, seagrass beds, and rocky reefs. In coastal regions, intense flooding events can exacerbate the gradual impacts of rising sea levels. Using long-term ecological datasets and global databases of socio-ecological shocks, I investigate how these events propagate across ecological and social systems, and how the timing and magnitude of disturbances influence ecosystem resilience. As a [Young Scholar with the Beijer Institute of Economics](https://beijer.kva.se/current-beijer-young-scholars/){target="_blank"} I am working with an international team to [grow a database on socio-ecological shocks](https://finbio.org/the-shock-tracker/){target="_blank"}, and develop innovative ways to model and understand how shocks interact with their context, and move between the local and global scales.
+Extreme events are reshaping ecosystems and human communities at local to global scales, including heatwaves, hurricanes, and wildfires. In marine systems, heatwaves can alter species composition and community dynamics. On land, increasing frequency and intensity of wildfires along coasts and within watersheds---such as the 2025 Palisades Fire in Los Angeles County---threatens both terrestrial and adjacent marine habitats, including salt marshes, seagrass beds, and rocky reefs. In coastal regions, intense flooding events can exacerbate the gradual impacts of rising sea levels. Using long-term ecological datasets and global databases of socio-ecological shocks, I investigate how these events propagate across ecological and social systems, and how the timing and magnitude of disturbances influence ecosystem resilience. As a [Young Scholar with the Beijer Institute of Economics](https://beijer.kva.se/current-beijer-young-scholars/){target="_blank"} I am working with an international team to [grow a database on socio-ecological shocks](https://shocktracker.org/){target="_blank"}, and develop innovative ways to model and understand how shocks interact with their context, and move between the local and global scales.
 
 ------------------------------------------------------------------------
 
